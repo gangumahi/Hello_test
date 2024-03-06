@@ -3,8 +3,8 @@ lsb_release -a: This command will display information about the Linux distributi
 cat /etc/os-release: This command provides detailed information about the operating system.
 
 Token for github repository gangumahi/Hello_test
-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
-
+First Token :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
+Second token: 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
 Each time a repository created for a new project, we have to get a new token to push the contents to that repository and it is one time 
 git remote set-url origin https://<token>@github.com/<username>/<repo>
 
