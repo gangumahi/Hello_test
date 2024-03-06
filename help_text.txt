@@ -1,0 +1,9 @@
+lsb_release -a: This command will display information about the Linux distribution and its version
+cat /etc/os-release: This command provides detailed information about the operating system.
+
+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
+
+git remote set-url origin https://<token>@github.com/<username>/<repo>
+git remote set-url origin https://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@github.com/gangumahi/Hello_test
+
+
